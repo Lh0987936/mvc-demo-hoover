@@ -21,4 +21,4 @@ switch ($route) {
         showPage('404');
 }
 
-include $footer;  
+ 
